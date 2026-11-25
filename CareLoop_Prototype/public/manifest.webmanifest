@@ -1,0 +1,10 @@
+{
+  "name": "CareLoop — Wellbeing Companion",
+  "short_name": "CareLoop",
+  "description": "Daily check-ins, routines and wellbeing progress.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f4f8ff",
+  "theme_color": "#0a4fbd",
+  "icons": [{ "src": "/careloop-mark.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
